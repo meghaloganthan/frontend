@@ -1,0 +1,21 @@
+.nav{
+    padding: 0px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    color: black;
+    background-color: black;
+}
+body{
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      background-repeat: no-repeat;
+      /* background-image: url(bg1.jpeg); */
+      background-color: black;
+      background-size: cover;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    
+}
